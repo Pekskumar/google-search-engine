@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/google-search-engine/static/css/main.8fa92cd4.css",
-    "main.js": "/google-search-engine/static/js/main.d5b3f2d5.js",
+    "main.css": "/google-search-engine/static/css/main.ac749190.css",
+    "main.js": "/google-search-engine/static/js/main.1f921fb8.js",
     "static/media/Google_mic.svg.png": "/google-search-engine/static/media/Google_mic.svg.d64ec30a00ef07b77a76.png",
     "static/media/Google-favicon-2015.png": "/google-search-engine/static/media/Google-favicon-2015.ffe5bb534f845f3704e6.png",
     "index.html": "/google-search-engine/index.html",
-    "main.8fa92cd4.css.map": "/google-search-engine/static/css/main.8fa92cd4.css.map",
-    "main.d5b3f2d5.js.map": "/google-search-engine/static/js/main.d5b3f2d5.js.map"
+    "main.ac749190.css.map": "/google-search-engine/static/css/main.ac749190.css.map",
+    "main.1f921fb8.js.map": "/google-search-engine/static/js/main.1f921fb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fa92cd4.css",
-    "static/js/main.d5b3f2d5.js"
+    "static/css/main.ac749190.css",
+    "static/js/main.1f921fb8.js"
   ]
 }
